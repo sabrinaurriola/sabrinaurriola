@@ -67,7 +67,7 @@ Languages: Spanish, English, French. Open to on-site or hybrid roles in France, 
 
 **Status.** MVP (v1.0.0) runs end to end on simulated data (32,800 rows), on demand through an n8n form trigger. A real SMTP send was validated. Scheduled execution is not implemented. Retry/backoff and cost monitoring are planned for later sprints, and cost and latency have not been benchmarked at scale. Results do not reflect real client impact.
 
-[Repository](https://github.com/sabrinaurriola/futuretech-marketing-intelligence-platform) · 📄 [FutureTech Marketing Intelligence Platform — Case Study](case-study/FutureTech_Marketing_Intelligence_Platform_Case_Study.pdf)
+[Repository](https://github.com/sabrinaurriola/futuretech-marketing-intelligence-platform) · 📄 [Case study](https://github.com/sabrinaurriola/futuretech-marketing-intelligence-platform/blob/main/case-study/FutureTech_Marketing_Intelligence_Platform_Case_Study.pdf)
 
 ### 4. NeoBâti Operations System
 
