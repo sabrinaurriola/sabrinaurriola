@@ -42,7 +42,8 @@ Languages: Spanish, English, French. Open to on-site or hybrid roles in France, 
 
 **Status.** Working PoC for one raw material (sunflower oil); other commodities are placeholders. The company, contracts, and forecasts are fictional; market data is real. Offline tests pass with mocked services, and live runs were executed in November 2026 (most ended "partial" because validation removed unsupported items, as intended). It is decision support only. No accuracy, time-saving, or user-validation results exist.
 
-[Repository](https://github.com/sabrinaurriola/procurement-risk-and-mitigation-ai-agent) · [Loom walkthrough](https://www.loom.com/share/3f1675d6e96b41f098145668226c3a26) 
+
+[README](https://github.com/sabrinaurriola/procurement-risk-and-mitigation-ai-agent/blob/main/README.md) ·  [Repository](https://github.com/sabrinaurriola/procurement-risk-and-mitigation-ai-agent) · [Loom walkthrough](https://www.loom.com/share/3f1675d6e96b41f098145668226c3a26) 
 
 ### 2. AI-Powered IT Service Desk
 
@@ -54,7 +55,7 @@ Languages: Spanish, English, French. Open to on-site or hybrid roles in France, 
 
 **Status: work in progress.** *Built and tested:* Airtable data model, Slack intake (tested end to end on a live webhook), and ticket creation (tested standalone with controlled inputs). *Designed, not built:* button interactions, the RAG answer path, document ingestion, timeouts, and offline RAG evaluation. Slack signature verification and concurrent execution are unverified. No service-desk outcomes are claimed.
 
-[Repository](https://github.com/sabrinaurriola/ai-powered-it-service-desk) 
+[Repository](https://github.com/sabrinaurriola/ai-powered-it-service-desk)  [README](https://github.com/sabrinaurriola/ai-powered-it-service-desk/blob/main/README.md)
 
 ### 3. FutureTech Marketing Intelligence Platform (Campaign OS)
 
@@ -66,7 +67,7 @@ Languages: Spanish, English, French. Open to on-site or hybrid roles in France, 
 
 **Status.** MVP (v1.0.0) runs end to end on simulated data (32,800 rows), on demand through an n8n form trigger. A real SMTP send was validated. Scheduled execution is not implemented. Retry/backoff and cost monitoring are planned for later sprints, and cost and latency have not been benchmarked at scale. Results do not reflect real client impact.
 
-[Repository](https://github.com/sabrinaurriola/futuretech-marketing-intelligence-platform) · Case study PDF: [case-study/FutureTech_Marketing_Intelligence_Platform_Case_Study.pdf]
+[Repository](https://github.com/sabrinaurriola/futuretech-marketing-intelligence-platform) · 📄 [FutureTech Marketing Intelligence Platform — Case Study](case-study/FutureTech_Marketing_Intelligence_Platform_Case_Study.pdf)
 
 ### 4. NeoBâti Operations System
 
@@ -78,7 +79,7 @@ Languages: Spanish, English, French. Open to on-site or hybrid roles in France, 
 
 **Status: completed** as a designed, implemented, and tested solution, documented in a final written dossier. 
 
-[Repository](https://github.com/sabrinaurriola/NEOBATI-Operations-System) 
+[Repository](https://github.com/sabrinaurriola/NEOBATI-Operations-System) ·  [README](https://github.com/sabrinaurriola/NEOBATI-Operations-System/blob/main/README.md)
 
 ## Toolkit
 
